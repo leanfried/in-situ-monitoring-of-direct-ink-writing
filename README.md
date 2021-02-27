@@ -1,5 +1,7 @@
 # in-situ-monitoring-of-direct-ink-writing
  Code and sample data for in-situ monitoring of print stability during direct ink writing
+ 
+ Additional video files are available at Mendeley Data: http://dx.doi.org/10.17632/2236m9683h.1
 
 Mathematica package files (.wl) and aggregate data for the paper "In situ characterization of low-viscosity direct ink writing: stability, wetting, and rotational flows." Code describes image analysis techniques for analyzing stability, wetting, and rotational flows in videos of a direct ink writing process. An example video set is included. 
 
